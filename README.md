@@ -1,1 +1,3 @@
 # vps
+
+sh run.sh
